@@ -23,9 +23,9 @@
 
   <a href="https://github.com/JovemDevv">
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devprodigio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
-  <img height="150em"  src="https://streak-stats.demolab.com?user=devprodigio&theme=dark&locale=pt-br&date_format=j%20M%5B%20Y%5D"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devprodigio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cipherx-C&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
+  <img height="150em"  src="https://streak-stats.demolab.com?user=Cipherx-C&theme=dark&locale=pt-br&date_format=j%20M%5B%20Y%5D"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipherx-C&layout=compact&langs_count=7&theme=dark"/>
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cipherx-C&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>   
   <img height="150em"  src="https://streak-stats.demolab.com?user=devprodigio&theme=onedark&locale=pt-br&date_format=j%20M%5B%20Y%5D"/>
